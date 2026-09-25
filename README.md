@@ -1,7 +1,7 @@
 # Quantum Adversarial Learning Framework (Q-VAE + Q-CNN)
 
 ## Overview
-This project implements a hybrid quantum-classical adversarial machine learning system[cite: 1, 3]. The architecture integrates a Quantum Variational Autoencoder (Q-VAE) acting as a quantum encoder with a Quantum Convolutional Neural Network (Q-CNN) that serves as a feature classifier[cite: 1, 3].
+This project implements a hybrid quantum-classical adversarial machine learning system. The architecture integrates a Quantum Variational Autoencoder (Q-VAE) acting as a quantum encoder with a Quantum Convolutional Neural Network (Q-CNN) that serves as a feature classifier.
 
 ## Tech Stack
 * **Language:** Python
